@@ -1,0 +1,1 @@
+# AI-Generated-vs.-Human-Captured-Image-Classification-Using-CNN
