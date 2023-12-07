@@ -1,7 +1,5 @@
 # AI-Generated vs. Human-Captured Image Classification Using CNN
 
----
-
 ## Project Introduction
 
 ### 1. Aim of Project
